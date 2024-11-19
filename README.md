@@ -61,6 +61,7 @@ Desenvolver uma plataforma centralizada e segura para integrar os registros clí
 
 - [Repositório do GitHub](https://github.com/orgs/Pronto-Recife)
 - [Design no Figma](https://www.figma.com/design/pnMSAFtg5QXfetJ5IkjeKY/ProntoRecife-Layout-%7C-Wireframe%2C-Guia-de-Marca-e-Identidade-Visual?node-id=1-2&t=E0j73MHQBUjhUdXU-0)
+- [Canal do Youtube](https://www.youtube.com/@ProntoRecife)
 
 ## Integrantes da Equipe
 
@@ -77,5 +78,4 @@ Equipe de **Front-End**
 - [Alice Sena](https://github.com/alicessena)
 - [Myller Cardoso](https://github.com/myllercardoso)  
 - [Dalizza Cosmo](https://github.com/DALIZZA)  
-- [Thiago Castro](https://github.com/Thiago-Castro-7)
 - [Juvenildo Farias](https://github.com/Jott47) 
